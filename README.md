@@ -1,6 +1,6 @@
 # Trading-Algorithm-Framework
 
-*Currently in-progress*
+*This project is currently in-progress*
 
 **Summary:**
 
