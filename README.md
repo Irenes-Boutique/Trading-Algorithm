@@ -1,4 +1,4 @@
-# Trading-Algorithm
+# Trading-Algorithm-Framework
 
 *Currently in-progress*
 
