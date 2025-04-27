@@ -1,5 +1,7 @@
 # Trading-Algorithm
 
+*Currently in-progress*
+
 **Summary:**
 
 Trading Algorithm Framework that automatically executes trading strategies based on code along with a separate backtester to test strategies performances.
